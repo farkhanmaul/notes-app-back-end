@@ -1,7 +1,7 @@
 # Notes App Backend API
 ## _Dicoding Submission_
 
-Notes App Backend API adalah tugas submission dicoding kelas Backend.
+Notes App Backend API adalah tugas submission dicoding kelas Backend Dasar.
 
 
 ## Features
